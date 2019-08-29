@@ -1,0 +1,26 @@
+working/big_buck_bunny_scene_small.mjpeg : 
+
+working/big_buck_bunny_scene_small.mjpeg.play :
+
+bin/frame_highlight_objects : 
+
+bin/frame_insert_objects : 
+
+bin/frame_subsample : 
+
+bin/frame_temporal_interpolate : 
+
+bin/frame_to_frame : 
+
+bin/frame_to_object_stream : 
+
+bin/frame_to_spikes : 
+
+bin/generate_object_stream : 
+
+bin/object_stream_stretch : 
+
+bin/render_pattern_strength : 
+
+bin/spikes_to_frame : 
+
